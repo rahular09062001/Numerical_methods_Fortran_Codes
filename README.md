@@ -11,5 +11,12 @@ My numerical method works using fortran
   - [x] Gauss Elimination
 * Interpolation
   - [x] Lagrange's Interpolation
-  - [x] Newton's Forward Interpolation 
+  - [x] Newton's Forward Interpolation
+
+
+
+## Check My Other Codes
+* [Numerical_methods_python_codes](https://github.com/rahular09062001/Numerical_methods_python_codes)
+* [Numerical_methods_Cplusplus_codes](https://github.com/rahular09062001/Numerical_methods_Cplusplus_codes)
+  
   
