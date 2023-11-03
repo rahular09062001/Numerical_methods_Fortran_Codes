@@ -16,7 +16,8 @@ My numerical method works using fortran
 * Interpolation
   - [x] Lagrange's Interpolation
   - [x] Newton's Forward Interpolation
-
+* Integration
+  -  [x] Trapezoidal method
 
 
 ## Check My Other Codes
