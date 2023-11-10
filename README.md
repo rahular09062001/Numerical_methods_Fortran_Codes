@@ -18,6 +18,7 @@ My numerical method works using fortran
   - [x] Newton's Forward Interpolation
 * Integration
   -  [x] Trapezoidal method
+  -  [x] Simpson's 1/3 rule 
 
 
 ## Check My Other Codes
