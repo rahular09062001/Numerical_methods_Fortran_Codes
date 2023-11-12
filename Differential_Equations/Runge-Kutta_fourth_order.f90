@@ -17,7 +17,7 @@ program RK_4
         print*,"|The function can be changed in the   |"
         print*,"|in the function section of code.     |"
         print*,"|By default the function is taken as  |"
-        print*,"|   f(a,b) = (b**2)+(a**2)                 |"
+        print*,"|   f(a,b) = (b**2)+(a**2)            |"
         print*,"+-------------------------------------+"
 
         write(*,*)"Enter the intial and final of x"
