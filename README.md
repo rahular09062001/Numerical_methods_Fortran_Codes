@@ -21,7 +21,8 @@ My numerical method works using fortran
   -  [x] Simpson's 1/3 rule
 * Differential Equation
   -  [x] Modified Euler
-  -  [x] Ruge-Kutta Second Order Method 
+  -  [x] Ruge-Kutta Second Order Method
+  -  [x] Ruge-Kutta Fourth Order Method
 
 
 ## Check My Other Codes
