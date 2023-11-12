@@ -18,7 +18,9 @@ My numerical method works using fortran
   - [x] Newton's Forward Interpolation
 * Integration
   -  [x] Trapezoidal method
-  -  [x] Simpson's 1/3 rule 
+  -  [x] Simpson's 1/3 rule
+* Differential Equation
+  -  [x] Modified Euler
 
 
 ## Check My Other Codes
