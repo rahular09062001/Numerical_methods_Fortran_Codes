@@ -20,7 +20,8 @@ My numerical method works using fortran
   -  [x] Trapezoidal method
   -  [x] Simpson's 1/3 rule
 * Differential Equation
-  -  [x] Modified Euler
+  -  [x] Euler Method
+  -  [x] Modified Euler Method
   -  [x] Ruge-Kutta Second Order Method
   -  [x] Ruge-Kutta Fourth Order Method
 
