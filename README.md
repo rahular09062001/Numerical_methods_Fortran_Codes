@@ -24,6 +24,7 @@ My numerical method works using fortran
   -  [x] Modified Euler Method
   -  [x] Ruge-Kutta Second Order Method
   -  [x] Ruge-Kutta Fourth Order Method
+  -  [x] Adams-Bashforth-Moulton Method
 
 
 ## Check My Other Codes
