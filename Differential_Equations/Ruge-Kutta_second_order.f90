@@ -1,4 +1,4 @@
-program Ruge_kutta_second_order
+program Runge_kutta_second_order
 
         implicit  none
 
@@ -45,7 +45,7 @@ program Ruge_kutta_second_order
 
 
 
-        end program Ruge_kutta_second_order
+        end program Runge_kutta_second_order
 
         real function f(a,b) !******************************FUNCTION
 
