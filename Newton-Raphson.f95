@@ -1,7 +1,7 @@
 ! This program uses Newton-Raphson method to calculate the root
 ! The one draw back is we have to calculate derrivative by oursef
 ! The functions can be changed in the functions section
-! The derrivative of function should be changed in the derrivative section
+! The derivative of function should be changed in the derrivative section
 
 ! ************************* MAIN PROGRAM  *********************************
 program Newton_Raphson
@@ -46,7 +46,7 @@ program Newton_Raphson
 
       end function fn
 
-      !************** Derrivative Function *****************
+      !************** Derivative Function *****************
 
       real function fn_1(x)
 
